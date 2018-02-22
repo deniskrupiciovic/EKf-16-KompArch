@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Studentas/Desktop
+Eand_gate
+Z0 w1519265045
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1
+Z4 8C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd
+Z5 FC:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd
+l0
+L4
+Vl0iZXN5=T]4o>aL>WUYz80
+!s100 RPm?=dAf4RjUeHI3eFcMi2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1519266045
+!i10b 1
+Z8 !s108 1519266045.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd|
+Z10 !s107 C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Artl
+R1
+R2
+DEx4 work 8 and_gate 0 22 l0iZXN5=T]4o>aL>WUYz80
+l14
+L12
+V35b9J8K]?3cCP6;OQ<[4o0
+!s100 4GWB1h@:cQXNK9GWGLB_I2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate_tb
+Z13 w1519265090
+R1
+R2
+R3
+Z14 8C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd
+Z15 FC:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd
+l0
+L4
+V6@XTiUP^UAbzgQliOoQ]i2
+!s100 9SASH?ZdNXc5<eK`=d0Y33
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd|
+Z17 !s107 C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+Z18 DEx4 work 11 and_gate_tb 0 22 6@XTiUP^UAbzgQliOoQ]i2
+l19
+L7
+Z19 V8QkZ5X?@ei4GCLD=VcAmE1
+Z20 !s100 f=mTY4DkD14hgXf6C6Oz^1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

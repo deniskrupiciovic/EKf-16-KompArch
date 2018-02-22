@@ -1,0 +1,17 @@
+{C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_tb
+-- Compiling architecture behave of and_gate_tb
+
+} {} {}} {C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Studentas/Desktop/Denis Krupiciovic/cd lab1/and_gate.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture rtl of and_gate
+
+} {} {}}
