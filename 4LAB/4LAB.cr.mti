@@ -1,0 +1,31 @@
+C:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Lab41
+-- Compiling architecture rtl of Lab41
+
+} {} {}} C:/Users/Studentas/Desktop/lab4-master/4LABp.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/lab4-master/4LABp.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_1
+-- Compiling architecture dataflow of and_1
+-- Compiling entity and_2
+-- Compiling architecture dataflow of and_2
+-- Compiling entity and_3
+-- Compiling architecture dataflow of and_3
+-- Compiling entity Small_ckt
+-- Compiling architecture structural of Small_ckt
+
+} {} {}} C:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Lab4
+-- Compiling architecture rtl of Lab4
+
+} {} {}}

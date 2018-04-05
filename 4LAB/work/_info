@@ -1,0 +1,325 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eand_1
+Z0 w1522731627
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Studentas/Desktop/lab4-master
+Z4 8C:/Users/Studentas/Desktop/lab4-master/4LABp.vhd
+Z5 FC:/Users/Studentas/Desktop/lab4-master/4LABp.vhd
+l0
+L4
+VQzC[[BZb[V:`6dJ8BIgWL2
+!s100 NiQcU_n5^MOBL]9SN31ca1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1522731631
+!i10b 1
+Z8 !s108 1522731631.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/lab4-master/4LABp.vhd|
+Z10 !s107 C:/Users/Studentas/Desktop/lab4-master/4LABp.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Adataflow
+R1
+R2
+Z13 DEx4 work 5 and_1 0 22 QzC[[BZb[V:`6dJ8BIgWL2
+l9
+L8
+Z14 VJOh0H_meNO]om_Qd6SD8U3
+Z15 !s100 E=DhH2No^7oCaY438J3YZ3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_2
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L16
+V;Z]E=Eh[^D^@8YO>A2;0c1
+!s100 bCgoQT^Y1`DYgWFVJ0^A13
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+Z16 DEx4 work 5 and_2 0 22 ;Z]E=Eh[^D^@8YO>A2;0c1
+l21
+L20
+Z17 VXYA4CkBZULh;ban<MD>mL1
+Z18 !s100 [J?FB@f4O:cD^NkkGONIE1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_3
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L28
+V@CYmOc=;OG:N:C`hDE1H<3
+!s100 :GgYYBi`]j0ef1D:fJ]cb3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+Z19 DEx4 work 5 and_3 0 22 @CYmOc=;OG:N:C`hDE1H<3
+l33
+L32
+Z20 VV90L63oO6;>BkOTh55Kj^2
+Z21 !s100 E4<>jcdi?95ZQdXMLQ5?F2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Elab4
+Z22 w1522728844
+R1
+R2
+R3
+Z23 8C:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd
+Z24 FC:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd
+l0
+L4
+Ve_c>IViXgzLXEf:zNB8K_3
+!s100 6Hal3[Y>W[A??G3KFhdGP1
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd|
+Z26 !s107 C:/Users/Studentas/Desktop/lab4-master/4LAB1.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 4 lab4 0 22 e_c>IViXgzLXEf:zNB8K_3
+l11
+L10
+VJIlomSof`U<189lb`?4<93
+!s100 GQ>ZJCCHABbE`YBR0ViiB3
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Elab41
+Z27 w1522729839
+R1
+R2
+R3
+Z28 8C:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd
+Z29 FC:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd
+l0
+L4
+VAI35R348_eVU]`Jm`YHP<1
+!s100 nV6Qk[iNW7aYcl2iCnQRn0
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd|
+Z31 !s107 C:/Users/Studentas/Desktop/lab4-master/4LAB2.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 5 lab41 0 22 AI35R348_eVU]`Jm`YHP<1
+l10
+L9
+VdJdAoRoUAb91YoO5Y[K]z2
+!s100 D7DI;5lD>gPU6mb1XWh8;1
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Eor4
+Z32 w1522730626
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+VbUQgJFCMVb3K9in6z9gmR3
+!s100 4iYQ_:BTI0EAgTNz?BTH<3
+R6
+32
+Z33 !s110 1522730653
+!i10b 1
+Z34 !s108 1522730653.000000
+R9
+R10
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 3 or4 0 22 bUQgJFCMVb3K9in6z9gmR3
+l19
+L14
+VWd3=jPn:5A3hjHO?zP@>@1
+!s100 M5aYg4hd3Rzj7LAN[JJkb2
+R6
+32
+R33
+!i10b 1
+R34
+R9
+R10
+!i113 1
+R11
+R12
+Epap3
+w1522728754
+R1
+R2
+R3
+R28
+R29
+l0
+L4
+V9zkd0HOYzf@>Wo;HJn87A2
+!s100 [DX1K0h:^]e:Z7MiBaC5=2
+R6
+32
+!s110 1522729000
+!i10b 1
+!s108 1522729000.000000
+R30
+R31
+!i113 1
+R11
+R12
+Artl
+R22
+R1
+R2
+DEx4 work 4 pap3 0 22 Hb2lBf>gz;iRN9z3LCZe73
+l11
+L10
+VYYAWOVciDYnb^D36D4BN@3
+!s100 6bU2em;7V?NZoSTczW0Pi3
+R6
+32
+!s110 1522728704
+!i10b 1
+!s108 1522728703.000000
+R25
+R26
+!i113 1
+R11
+R12
+R24
+R23
+Esmall_ckt
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L40
+V]4loGIK7k^klVS[g]K5IN3
+!s100 VOX^WiX>VlzViAX9MMPVI0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Astructural
+R1
+R2
+DEx4 work 9 small_ckt 0 22 ]4loGIK7k^klVS[g]K5IN3
+l70
+L46
+V6Vg=moP@Xball@cBVLljk1
+!s100 ?hB6WmbRzMk3N;Aj2KeFS2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
